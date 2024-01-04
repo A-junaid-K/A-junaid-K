@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdullah Junaid
 - 👀 I’m Passoinate in Coding
-- 🌱 Currently Learning: Golang, Docker and K8s
+- 🌱 Currently Learning: Golang, Docker and K8s, Microservice
 - 📫 How to Reach Me: Contact me via email (junaidkaidakath@gmail.com) or visit my LinkedIn profile.
 
 <!---
